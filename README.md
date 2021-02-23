@@ -12,4 +12,4 @@ All of completed projects use python in form of Jupyter Notebook (ipython notebo
 - ### Data Visualization
 	- Data Analysis of COVID-19 Case in East Java: Finding reason behind high death rate from COVID-19 in East Java compared to Indonesia, the analysis involved various data visualzation techniques.
 	
-	_Libraries in this project: Pandas, Numpy, Matplotlib, Seaborn
+	_Libraries in this project: Pandas, Numpy, Matplotlib, Seaborn_
